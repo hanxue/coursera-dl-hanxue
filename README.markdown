@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 coursera-dl
 ===========
 
@@ -47,3 +48,8 @@ this script (happens the very first time you go to the class page).
   [https://github.com/abhirama/coursera-download]: https://github.com/abhirama/coursera-download
   [Python]: http://www.python.org/download/
   [pip]: http://www.pip-installer.org/en/latest/installing.html
+=======
+I do not maintain this project anymore.
+
+A python script to download <a href='http://coursera.org/'>coursera</a> lecture assets. Read more about it <a href='http://abhirama.wordpress.com/2012/05/02/script-to-download-coursera-videos/' target='blank'>here</a>.
+>>>>>>> upstream/master
