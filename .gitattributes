@@ -5,3 +5,4 @@
 # to native line endings on checkout.
 *.py text
 
+README.md merge=ours
